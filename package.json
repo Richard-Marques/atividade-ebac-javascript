@@ -1,0 +1,23 @@
+{
+  "name": "atividade-ebac-javascript",
+  "version": "1.0.0",
+  "main": "indicesmaiormenor.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richard-Marques/atividade-ebac-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richard-Marques/atividade-ebac-javascript/issues"
+  },
+  "homepage": "https://github.com/Richard-Marques/atividade-ebac-javascript#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}

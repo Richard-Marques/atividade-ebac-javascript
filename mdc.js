@@ -7,4 +7,4 @@ function mdc(a, b) {
   return a;
 }
 
-console.log("MDC de 20 e 8:", mdc(20, 8)); 
+module.exports = mdc;
